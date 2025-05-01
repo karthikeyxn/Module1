@@ -1,7 +1,7 @@
 # Conditional Statements in Python: Even or Odd Checker
 
-## NAME : S.L.NARASIMHA REDDY
-## REG NO:212223040214
+## NAME :karthikeyan M
+## REG NO:212223040088
 ## 🎯 Aim
 To write a Python program to check whether the given number is **even** or **odd** using `if...else` statements.
 
