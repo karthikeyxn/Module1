@@ -1,7 +1,7 @@
 
 # Ex 1:Datatypes-Boolean Expression Evaluation in Python
-## NAME :karthikeyan M
-## REG NO:212223040088
+## NAME :noorulaslina M
+## REG NO:212223050033
 ## 🎯 Aim
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
 
