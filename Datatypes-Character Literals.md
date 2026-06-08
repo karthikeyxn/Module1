@@ -1,7 +1,7 @@
 # Datatypes-Character Literal in Python
 
-## NAME :karthikeyan M
-## REG NO:212223040088
+## NAME :noorulaslina M
+## REG NO:212223050033
 ## 🎯 Aim
 To write a Python program that prints the characters `'T'` and `'a'` using character literals.
 
