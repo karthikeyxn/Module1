@@ -1,7 +1,7 @@
 # Datatypes-Read and Print a String in Python
 
-## NAME :karthikeyan M
-## REG NO:212223040088
+## NAME :noorulaslina M
+## REG NO:212223050033
 ## 🎯 Aim
 To write a Python program to read a string from the user and then print it.
 
